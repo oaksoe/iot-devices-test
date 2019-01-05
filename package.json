@@ -1,0 +1,23 @@
+{
+  "name": "iot-devices-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oaksoe/iot-devices-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oaksoe/iot-devices-test/issues"
+  },
+  "homepage": "https://github.com/oaksoe/iot-devices-test#readme",
+  "dependencies": {
+    "tplink-cloud-api": "^0.3.8",
+    "uuid": "^3.3.2"
+  }
+}
